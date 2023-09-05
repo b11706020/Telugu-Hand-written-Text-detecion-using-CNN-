@@ -22,7 +22,7 @@ Automate the recognition of single Telugu handwritten words in images using deep
 
 This open-source project is designed to perform Optical Character Recognition (OCR) on single Telugu handwritten words found in images (PNG/JPG/TIFF). Telugu, a complex and diverse script, is a prominent South Indian language. Our OCR system leverages machine learning and deep learning techniques to automatically detect and transcribe handwritten Telugu words.
 
-![Example](images/9.jpg)
+![Example](/9.jpg)
 
 ---
 
