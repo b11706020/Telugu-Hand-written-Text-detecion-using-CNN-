@@ -41,7 +41,7 @@ This open-source project is designed to perform Optical Character Recognition (O
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/telugu-handwritten-single-word-ocr.git
+   git clone [https://github.com/b11706020/Telugu-Hand-written-Text-detecion-using-CNN]
 2.pip install -r requirements.txt
 ## Usage
 1.Import the Model.h5 and predict text with a new image.
